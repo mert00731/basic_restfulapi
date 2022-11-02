@@ -1,0 +1,16 @@
+{
+  "name": "resfulapi-mert",
+  "version": "1.0.0",
+  "description": "my first api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "mert siyami yavuz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1"
+  }
+}
